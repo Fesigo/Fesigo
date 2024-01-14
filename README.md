@@ -1,9 +1,8 @@
 ## Hi there 👋🏻, I'm Felipe Siqueira ☕
 
-<div align="center">
+<div>
   <a href="https://github.com/Fesigo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fesigo&show_icons=true&theme=dracula&title_color=B186E2&text_color=6C9FF4&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesigo&layout=compact&langs_count=7&theme=dracula&title_color=B186E2&text_color=6C9FF4"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesigo&layout=compact&langs_count=7&theme=dracula&title_color=B186E2&text_color=6C9FF4"/>
 </div>
 
 <div style="display: inline_block"><br>
