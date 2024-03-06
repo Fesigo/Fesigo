@@ -15,8 +15,8 @@
   <img align="center" title="MySQL" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align="center" title="Docker" alt="Docker" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg"/>
-  <img align="center" title="VSCode" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" title="Git" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" title="VSCode" alt="VSCode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" title="Git" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" title="AWS" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   <img align="center" title="Firebase" alt="Firebase" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firebase/firebase-original.svg"/>
   <img align="center" title="NPM" alt="NPM" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
